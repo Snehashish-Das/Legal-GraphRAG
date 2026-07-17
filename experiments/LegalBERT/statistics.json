@@ -1,0 +1,12 @@
+{
+  "model": "LegalBERT",
+  "model_name": "nlpaueb/legal-bert-base-uncased",
+  "embedding_dimension": 768,
+  "total_chunks": 6597,
+  "embedding_time_seconds": 314.59,
+  "index_build_time_seconds": 0.0079,
+  "average_query_time_ms": 0.0,
+  "minimum_similarity": -0.9013,
+  "maximum_similarity": 0.1323,
+  "average_similarity": -0.0015
+}

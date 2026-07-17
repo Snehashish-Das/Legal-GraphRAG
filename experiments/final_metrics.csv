@@ -1,0 +1,4 @@
+Model,Precision@5,MRR,nDCG@5
+InLegalBERT,0.35,0.4083,0.4453
+BM25,0.5867,0.8083,0.8395
+Hybrid,0.5,0.7625,0.7808

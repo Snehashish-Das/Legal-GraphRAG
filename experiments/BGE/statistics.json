@@ -1,0 +1,12 @@
+{
+  "model": "BGE",
+  "model_name": "BAAI/bge-base-en-v1.5",
+  "embedding_dimension": 768,
+  "total_chunks": 6597,
+  "embedding_time_seconds": 298.17,
+  "index_build_time_seconds": 0.005,
+  "average_query_time_ms": 0.0,
+  "minimum_similarity": -0.3281,
+  "maximum_similarity": 0.1426,
+  "average_similarity": -0.0007
+}

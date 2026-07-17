@@ -1,0 +1,17 @@
+============================================================
+RESEARCH SUMMARY
+============================================================
+Dataset       : 6,597 legal chunks (Indian court judgements)
+Evaluation    : 20 queries | 326 relevant labels
+Retrievers    : 8 (MiniLM, InLegalBERT, LegalBERT, BGE, GraphRAG-MiniLM, GraphRAG-InLegalBERT, GraphRAG-LegalBERT, GraphRAG-BGE)
+Primary metric: NDCG@5
+
+Top performer : GraphRAG-BGE (NDCG@5=0.9922, MRR=1.0000, MAP=0.2948)
+2nd best      : GraphRAG-InLegalBERT (NDCG@5=0.9447)
+
+GraphRAG      : Bipartite citation/act graph, PageRank + Jaccard
+              : alpha=0.7 (FAISS), beta=0.3 (Graph). Ablation in Section 9.
+
+Statistics    : Wilcoxon signed-rank vs BM25 baseline
+              : Bootstrap 95% CI (2000 resamples)
+============================================================

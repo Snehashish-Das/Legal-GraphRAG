@@ -1,0 +1,5 @@
+Model,HuggingFace ID,Embed Dim,Total Chunks,Embed Time (s),Avg Query (ms),Min Cosine,Max Cosine,Mean Cosine,Std Cosine
+MiniLM,sentence-transformers/all-MiniLM-L6-v2,384,6597,55.75,0.0,0.305,0.7382,0.5194,0.1033
+InLegalBERT,law-ai/InLegalBERT,768,6597,318.2,0.0,0.2244,0.6755,0.5185,0.1154
+LegalBERT,nlpaueb/legal-bert-base-uncased,768,6597,314.59,0.0,0.2413,0.8171,0.5573,0.1442
+BGE,BAAI/bge-base-en-v1.5,768,6597,298.17,0.0,0.6733,0.8272,0.7514,0.0353

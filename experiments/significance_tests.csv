@@ -1,0 +1,8 @@
+Retriever,Mean_NDCG@5_Retriever,Mean_NDCG@5_BGE,Delta,Wilcoxon_stat,p-value,Significant?,Direction
+GraphRAG-BGE,0.9922,0.9324,0.0598,0.0,0.002,Yes (p<0.05),Better
+GraphRAG-InLegalBERT,0.9447,0.9324,0.0123,40.0,0.2769,No,Better
+GraphRAG-MiniLM,0.9359,0.9324,0.0036,66.0,0.9399,No,Better
+GraphRAG-LegalBERT,0.9259,0.9324,-0.0065,72.5,0.89,No,Worse
+MiniLM,0.9246,0.9324,-0.0077,63.0,0.8209,No,Worse
+InLegalBERT,0.8671,0.9324,-0.0653,40.5,0.0984,No,Worse
+LegalBERT,0.8239,0.9324,-0.1084,22.0,0.004,Yes (p<0.05),Worse

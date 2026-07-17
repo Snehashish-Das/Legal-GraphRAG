@@ -1,0 +1,9 @@
+Retriever,Unique Chunks Retrieved,Coverage %
+BGE,100,1.52
+GraphRAG-BGE,98,1.49
+MiniLM,97,1.47
+GraphRAG-MiniLM,94,1.42
+GraphRAG-InLegalBERT,92,1.39
+InLegalBERT,85,1.29
+GraphRAG-LegalBERT,39,0.59
+LegalBERT,29,0.44

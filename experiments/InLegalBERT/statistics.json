@@ -1,0 +1,12 @@
+{
+  "model": "InLegalBERT",
+  "model_name": "law-ai/InLegalBERT",
+  "embedding_dimension": 768,
+  "total_chunks": 6597,
+  "embedding_time_seconds": 318.2,
+  "index_build_time_seconds": 0.006,
+  "average_query_time_ms": 0.0,
+  "minimum_similarity": -0.7826,
+  "maximum_similarity": 0.141,
+  "average_similarity": -0.0019
+}

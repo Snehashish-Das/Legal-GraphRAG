@@ -1,0 +1,4 @@
+Model,Dimension,Embedding Time (s),Avg Query Time (ms),Average Similarity
+BGE,768,244.1,18.5,0.7417
+InLegalBERT,768,261.23,17.7,0.5602
+MiniLM,384,50.24,17.33,0.4973

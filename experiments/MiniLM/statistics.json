@@ -1,0 +1,12 @@
+{
+  "model": "MiniLM",
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "total_chunks": 6597,
+  "embedding_time_seconds": 55.75,
+  "index_build_time_seconds": 0.003,
+  "average_query_time_ms": 0.0,
+  "minimum_similarity": -0.2544,
+  "maximum_similarity": 0.2332,
+  "average_similarity": -0.0004
+}
