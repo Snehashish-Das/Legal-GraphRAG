@@ -449,11 +449,9 @@ GraphRAG-Legal/
 
 ---
 
-# Authors
+# Author
 
 **Snehashish Das**
-**Gungun Sharma**
-**Sruti Mishra**
 
 Master of Computer Applications (MCA)
 
